@@ -2,7 +2,7 @@
 
 # Lastenheft
 
-### 1.Ziele
+### 1. Ziele
 
   -  Benutzerfreundlicher Store
 
@@ -20,7 +20,7 @@
 
  
 
-### 2.Ist-Zustand
+### 2. Ist-Zustand
 
  - veraltetets System
 
@@ -31,7 +31,7 @@ mit Partner-Software
 
  
 
-### 3.Soll-Zustand
+### 3. Soll-Zustand
 
   - dem heutigem
 Standard entsprechends ERP
@@ -93,7 +93,7 @@ Bestellungen aufgeben
 
  
 
-### 4.Schnittstellen
+### 4. Schnittstellen
 
  - Zur Website
 
@@ -107,7 +107,7 @@ Angestelltenschnittstelle
 
  
 
-### 5.Systemanforderungen
+### 5. Systemanforderungen
 
 - Backup Software
 
@@ -119,7 +119,7 @@ Angestelltenschnittstelle
 
  
 
-### 6.Anforderungen an Inbetriebnahme und Einsatz
+### 6. Anforderungen an Inbetriebnahme und Einsatz
 
  - Regelmäßige
 Schulungen (Software-Updates, etc.)
@@ -138,7 +138,7 @@ Testberichte
 
  
 
-### 7.Qualitätsanforderungen
+### 7. Qualitätsanforderungen
 
  - schnell
 
